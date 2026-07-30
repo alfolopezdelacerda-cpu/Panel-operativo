@@ -1,4 +1,3 @@
-
 /* ====================== CONFIG ======================
    MODO SEGURO (recomendado): pega aquí la URL /exec del Apps Script
    y tu token. La hoja permanece privada.
